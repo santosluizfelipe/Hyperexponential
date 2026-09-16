@@ -1,0 +1,41 @@
+employee_name,employee_email,review_date,rating,notes
+Tom Fairbrother,tom.fairbrother@northwind.example,2026-02-10,Exceeding,Strong year. Took on the platform migration nobody wanted.
+Tom Fairbrother,tom.fairbrother@northwind.example,2025-02-14,Meeting,Solid delivery. Wants broader scope.
+Tom Fairbrother,,2026-02-13,Partially meeting,Pipeline targets missed two quarters running. Support plan agreed.
+Tom Fairbrother,,2025-02-12,Meeting,Good first year in the territory.
+Dev Sharma,dev.sharma@northwind.example,2026-02-09,Exceeding,Running the function well. Ready for more.
+Aoife Lenihan,aoife.lenihan@northwind.example,2026-02-09,Exceeding,Ready for a Manager conversation next cycle.
+Aoife Lenihan,aoife.lenihan@northwind.example,2025-02-11,Exceeding,Consistently above level.
+Ola Adeyemi,ola.adeyemi@northwind.example,2026-02-10,Exceeding,Third strong review running. Pay has not kept up with the work.
+Ola Adeyemi,ola.adeyemi@northwind.example,12/02/2025,Exceeding,Excellent. Carried the on-call rota through a bad quarter.
+Ruth Kelleher,ruth.kelleher@northwind.example,2026-02-10,Meeting,Deep system knowledge. Flight risk if comp stalls.
+Jose Alvarez,jose.alvarez@northwind.example,2026-02-11,Meeting,Dependable. Prefers depth to breadth.
+Marta Wisniewska,marta.wisniewska@northwind.example,2026-02-12,Exceeding,Best-run team in the group.
+Piotr Zielinski,p.zielinski.dev@gmail.com,2026-02-12,Exceeding,Fastest ramp we have seen at this level.
+Deandre Whitfield,deandre.whitfield@northwind.example,2026-02-09,Meeting,Steady. Some concerns about delegation raised informally.
+Marcus Bell,marcus.bell@northwind.example,2026-02-10,Below,Not meeting the bar on delivery. Formal conversation held in February.
+Marcus Bell,marcus.bell@northwind.example,2025-02-10,Partially meeting,Slipped in the second half. Watching closely.
+Rebecca Sandoval,rebecca.sandoval@northwind.example,2026-02-11,Exceeding,"Strong operator, low drama."
+Farida Hassan,farida.hassan@northwind.example,2026-02-11,Meeting,Good year for the team.
+Joe Pemberton,joe.pemberton@northwind.example,2026-02-12,Partially meeting,Improving. Was on a plan last year and has come off it.
+Joe Pemberton,joe.pemberton@northwind.example,2025-02-13,Below,Missed on most measures. Improvement plan agreed.
+Wojciech Kaminski,wojciech.kaminski@northwind.example,March 2026,Meeting,"Consistent, quiet."
+Grace Oduya-Bell,grace.oduya-bell@northwind.example,2026-02-09,Exceeding,Excellent year.
+Sanjay Mistry,sanjay.mistry@northwind.example,2026-02-10,Meeting,Fine. Needs to delegate more.
+Elena Sokolova,elena.sokolova@northwind.example,2026-02-11,Exceeding,Outgrowing the level quickly.
+Ben Whitcombe,ben.whitcombe@northwind.example,2026-02-12,Meeting,"Promising, early."
+Callum Hendry,callum.hendry@northwind.example,2026-02-09,Meeting,"Numbers fine, team engagement mixed."
+Lucia Ferrer,lucia.ferrer@northwind.example,2026-02-10,Exceeding,Carried the renewals book single-handed for a quarter.
+Danny Okoro,danny.okoro@northwind.example,2026-02-11,Below,Not meeting the bar on accuracy. HR aware.
+Bryony Ashcombe,bryony.ashcombe@northwind.example,2026-02-12,Meeting,"Strong on process, remote working well."
+Martin Voss,martin.voss@northwind.example,2026-02-09,Meeting,Reliable.
+Hannah Reid,hannah.reid@northwind.example,2026-02-10,Exceeding,Two strong years. Returned from parental leave mid-year and picked up immediately.
+Hannah Reid,hannah.reid@northwind.example,2025-02-11,Exceeding,Excellent.
+Ines Cardoso,ines.cardoso@northwind.example,2026-02-11,Meeting,Good year.
+Tunde Bakare,tunde.bakare@northwind.example,2026-02-12,Meeting,Still learning the domain.
+Agnieszka Lewandowska,agnieszka.lewandowska@northwind.example,2026-02-09,Exceeding,Runs Poland well. Wants a regional remit.
+Raj Bhandari,raj.bhandari@northwind.example,2026-02-10,Meeting,Fine. Reporting line unclear since the reorg.
+Fiona Buchanan,fiona.buchanan@northwind.example,2026-02-11,Meeting,Solid.
+Helena Vasquez,helena.vasquez@northwind.example,2026-02-09,Exceeding,Runs a tight function.
+Bram Coetzee,bram.coetzee@northwind.example,2026-02-12,Meeting,Accurate and quick. Building stakeholder confidence.
+Rosalind Achterberg,rosalind.achterberg@northwind.example,2025-02-14,Meeting,Contractor extension reviewed. Not on payroll.
