@@ -131,5 +131,7 @@ Restart the FastAPI server. The startup process recreates and reseeds the SQLite
 
 ## Notes
 
+- [API design](API_DESIGN.md)
+- [Product questions and future work](FUTURE_WORK.md)
 - [Design notes](docs/design-notes.md)
 - [Access control and real data readiness](docs/access-control-and-real-data.md)
